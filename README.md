@@ -2,7 +2,8 @@
 
 ### I'm a passionate environmentalist with a background in physics currently studying in the MSc in Sustainable Management & Technology jointly given by UNIL-HEC, EPFL & IMD. 
 
-### I'm also a research assistant at the enterprise for society (E4S) working on the development of the Green Domestic Product (GrDP)
+### I'm also a research assistant working on the development of the Green Domestic Product (GrDP) at the enterprise for society (E4S).
+
 
 <!--
 **AntoineTrabia/AntoineTrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
