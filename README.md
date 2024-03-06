@@ -1,8 +1,8 @@
-# Title
+# Antoine Trabia
 
-## Subtitle
+## MSc student in Sustainable Management & Technology
 
-### Subsubtitle
+### Research Assistant for the Enterprise for society (E4S)
 
 <!--
 **AntoineTrabia/AntoineTrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
