@@ -1,8 +1,8 @@
-# Antoine Trabia
+# Hello, I'm Antoine Trabia 
 
-## MSc student in Sustainable Management & Technology
+### I'm a passionate environmentalist with a background in physics currently studying in the MSc in Sustainable Management & Technology jointly given by UNIL-HEC, EPFL & IMD. 
 
-### Research Assistant for the Enterprise for society (E4S)
+### I'm also a research assistant at the enterprise for society (E4S) working on the development of the Green Domestic Product (GrDP)
 
 <!--
 **AntoineTrabia/AntoineTrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
